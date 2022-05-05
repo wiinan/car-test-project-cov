@@ -1,0 +1,23 @@
+[
+  {
+    "id": "02vawdcyaouk",
+    "name": "Jetta",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "e5weqki8thue",
+    "name": "911",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "icobn3bkhirb",
+    "name": "A8",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
